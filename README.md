@@ -1,7 +1,7 @@
 venezuela-sql
 =============
 
-Base de datos de la división político territorial de Venezuela. Se incluyen estados, ciudades, municipios y parroquias de Venezuela en formato .sql.
+Base de datos de la división político territorial de Venezuela. Se incluyen estados, ciudades, municipios y parroquias de Venezuela en formato .sql lista para importarse en MySQL, y MariaDB.
 
 La lista de estados tiene su código ISO 3166-2 correspondiente.
 
